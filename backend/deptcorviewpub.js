@@ -13,7 +13,7 @@ app.use(bodyParser.json());
 const db = mysql.createConnection({
     host: 'localhost',
     user: 'root',
-    password: 'Suvarna@123', // Use .env for password handling in production
+    password: 'Vdurga@30', // Use .env for password handling in production
     database: 'faculty_db', // Use .env for database name
 });
 

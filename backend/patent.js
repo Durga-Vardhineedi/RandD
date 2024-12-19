@@ -16,7 +16,7 @@ app.use(bodyParser.json());
 const db = mysql.createConnection({
     host: "localhost",
     user: "root",
-    password: "Suvarna@123", // It's recommended to use .env for sensitive information like passwords
+    password: "Vdurga@30", // It's recommended to use .env for sensitive information like passwords
     database: "faculty_db", // Use .env for the database name
 });
 
